@@ -472,7 +472,6 @@ Si l’application est lancée en mode suspendu, il faut reprendre l’exécutio
 ```text
 %resume
 ```
-<img width="883" height="362" alt="image" src="https://github.com/user-attachments/assets/7507919d-f121-44ba-bce5-103bea16baf0" />
 
 
 ### 16.4 Résultat attendu
@@ -642,7 +641,6 @@ Solution :
 ```powershell
 python -m pip install --upgrade frida frida-tools
 ```
-<img width="1141" height="643" alt="image" src="https://github.com/user-attachments/assets/fd9211f4-cb64-470c-a885-950c9a33f2c8" />
 
 ---
 
