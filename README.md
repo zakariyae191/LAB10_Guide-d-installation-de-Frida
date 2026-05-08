@@ -7,8 +7,7 @@ L’objectif était d’installer les outils nécessaires côté ordinateur, de 
 
 Ce lab représente une étape essentielle avant toute analyse dynamique Android, car Frida permet d’injecter des scripts dans une application afin d’observer son comportement à l’exécution.
 
----
-
+--
 ## 2. Objectifs du lab
 
 Les objectifs principaux étaient :
